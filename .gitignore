@@ -1,0 +1,7 @@
+*.opensdf
+Debug
+ipch
+Release
+*.sdf
+SerialMFC/Debug
+SerialMFC/Release
